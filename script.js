@@ -5,7 +5,7 @@
 const CONFIG = {
     name: 'Isis',
     fullName: 'Isis Bustillo',
-    date: '24 de Febrero, 2026',
+    date: '28 de Febrero, 2026',
     typewriterSpeed: 40,
     particleCount: 50,
 };
